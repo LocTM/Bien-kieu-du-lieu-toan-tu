@@ -15,6 +15,6 @@
 // alert("Diện tích hình tròn: " + S);
 
 // Tính chu vi hình tròn
-// R = prompt("Nhập bán kính: ");
-// C = parseInt(R) * 2 * 3.14;
-// alert("Chu vi hình tròn: " + C);
+R = prompt("Nhập bán kính: ");
+C = parseInt(R) * 2 * 3.14;
+alert("Chu vi hình tròn: " + C);
